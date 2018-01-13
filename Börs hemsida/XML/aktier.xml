@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<akiter>
+  <aktie namn="Google">
+    <kostar>500</kostar>
+    <säljs>700.99</säljs>
+    <aktieslag>A</aktieslag>
+    <börslista>Large Cap</börslista>
+  </aktie>
+  <aktie namn="Apple">
+    <kostar>900</kostar>
+    <säljs>500.67</säljs>
+    <aktieslag>A</aktieslag>
+    <börslista>Large Cap</börslista>
+  </aktie>
+  <aktie namn="Dell">
+    <kostar>850</kostar>
+    <säljs>450</säljs>
+    <aktieslag>A</aktieslag>
+    <börslista>Large Cap</börslista>
+  </aktie>
+
+  <aktie namn="Eriksson">
+    <kostar>100.11</kostar>
+    <säljs>200</säljs>
+    <aktieslag>B</aktieslag>
+    <börslista>Large Cap</börslista>
+  </aktie>
+  <aktie namn="ABB">
+    <kostar>1500</kostar>
+    <säljs>900</säljs>
+    <aktieslag>B</aktieslag>
+    <börslista>Large Cap</börslista>
+  </aktie>
+ 
+  <aktie namn="Handelsbanken">
+    <kostar>1500</kostar>
+    <säljs>900</säljs>
+    <aktieslag>B</aktieslag>
+    <börslista>Medium Cap</börslista>
+  </aktie>
+
+  <aktie namn="Komplett">
+    <kostar>4353</kostar>
+    <säljs>324</säljs>
+    <aktieslag>A</aktieslag>
+    <börslista>Medium Cap</börslista>
+  </aktie>
+
+  <aktie namn="SAAB">
+    <kostar>156.56</kostar>
+    <säljs>167.77</säljs>
+    <aktieslag>B</aktieslag>
+    <börslista>Medium Cap</börslista>
+  </aktie>
+
+  <aktie namn="Tele2">
+    <kostar>56</kostar>
+    <säljs>255.56</säljs>
+    <aktieslag>A</aktieslag>
+    <börslista>Medium Cap</börslista>
+  </aktie>
+
+  <aktie namn="Investor">
+    <kostar>100.45</kostar>
+    <säljs>56.78</säljs>
+    <aktieslag>B</aktieslag>
+    <börslista>Medium Cap</börslista>
+  </aktie>
+
+  <aktie namn="Nobia">
+    <kostar>34</kostar>
+    <säljs>56</säljs>
+    <aktieslag>B</aktieslag>
+    <börslista>Small Cap</börslista>
+  </aktie>
+
+  <aktie namn="Investor">
+    <kostar>900</kostar>
+    <säljs>111</säljs>
+    <aktieslag>B</aktieslag>
+    <börslista>Small Cap</börslista>
+  </aktie>
+
+  <aktie namn="ICA">
+    <kostar>56</kostar>
+    <säljs>99</säljs>
+    <aktieslag>B</aktieslag>
+    <börslista>Small Cap</börslista>
+  </aktie>
+
+  <aktie namn="Sandvik">
+    <kostar>11</kostar>
+    <säljs>65</säljs>
+    <aktieslag>A</aktieslag>
+    <börslista>Small Cap</börslista>
+  </aktie>
+
+  <aktie namn="Knowit">
+    <kostar>65</kostar>
+    <säljs>99</säljs>
+    <aktieslag>A</aktieslag>
+    <börslista>Small Cap</börslista>
+  </aktie>
+</akiter>

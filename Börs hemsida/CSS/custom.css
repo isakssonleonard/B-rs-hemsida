@@ -1,0 +1,143 @@
+﻿/***************
+    Colors
+****************/
+
+body {
+    background-color:#fcfcfc;
+}
+
+.main-header,
+.navigation,
+#börs-navigation {
+    background-color: lime;
+}
+
+.navigation li {
+    color: blue;
+}
+
+#logo h1 {
+     color: blue;
+}
+
+/***************
+    Generally
+****************/
+
+a {
+    text-decoration: none;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
+img {
+    max-width: 100%;
+}
+
+ul {
+    list-style: none;
+}
+
+#wrapper {
+    margin: 0 auto;
+    max-width: 1200px;
+    width: 50%;
+    padding: 1%;
+    min-height: calc(100vh - 127px);
+}
+
+/***************
+    Logo
+****************/
+
+#logo h1 {
+    margin: 0;
+    font-size: 2.5em;
+    display: inline;
+    padding-left: 10px;
+}
+
+
+/***************
+    Header
+****************/
+.main-header {
+    height: 100px;
+}
+
+
+/***************
+    navigation
+****************/
+
+.navigation ul {
+    margin: 0;
+    text-align: center;
+}
+
+.navigation li {
+    display: inline-block;
+    padding: 5px;
+    margin-right: 10px;
+}
+
+#Label1 {
+    margin-left: 30px;
+}
+
+.börser {
+    margin-right: 15px;
+    display: inline-block;
+}
+
+#Text {
+    color: orange;
+}
+
+/***************
+    Börs lista
+****************/
+
+#börs-navigation {
+    text-align: center;
+    padding: 15px 0 15px 0;
+}
+
+#GridView {
+    margin-left: 30%;
+}
+
+/***************
+    Footer
+****************/
+
+.main-footer {
+    text-align: center;
+}
+
+.main-footer img {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+
+/***************
+    choose-section
+****************/
+
+.choose-section {
+    margin-top: 30px;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+#DropDownList1 {
+    margin-top: 5px;
+    width: 100px;
+    display: block;
+}
